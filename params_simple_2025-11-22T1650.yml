@@ -1,0 +1,83 @@
+base_paths:
+  MAIN: "/Users/pohle/Dropbox/Central_Asia/HOBO/data/"
+  KG_Arabel: "KG_Arabel/"
+  KG_BS: "KG_BatyshSook/"
+  KG_G354: "KG_G354/"
+base_levels:
+  KG_Arabel_2019:
+  KG_Arabel_2020:
+  KG_Arabel_2021:
+  KG_Arabel_2022:
+  KG_Arabel_2023: 95
+  KG_Arabel_2024: 110
+  KG_Arabel_2025: 129
+  KG_G354-old_2019: 30
+  KG_G354-old_2020:
+  KG_G354-old_2021:
+  KG_G354-old_2022:
+  KG_G354-old_2023:
+  KG_G354-new_2023: 25.4
+  KG_G354-new_2024: 58
+  KG_G354-new_2025:
+  KG_BS-old_2019:
+  KG_BS-old_2020:
+  KG_BS-old_2021: 20
+  KG_BS-old_2022:
+  KG_BS-old_2023:
+  KG_BS-old_2024: 8 
+  KG_BS-new1_2024: 18.5
+  KG_BS-new1_2025: 
+  KG_BS-new2_2025: 25
+base_level_uncertainties:
+  BLUC_base: 15
+  KG_Arabel_2019:
+  KG_Arabel_2020:
+  KG_Arabel_2021:
+  KG_Arabel_2022:
+  KG_Arabel_2023: 15
+  KG_Arabel_2024: 5
+  KG_Arabel_2025: 5
+  KG_G354-old_2019: 20
+  KG_G354-old_2020:
+  KG_G354-old_2021:
+  KG_G354-old_2022:
+  KG_G354-old_2023:
+  KG_G354-new_2023: 10
+  KG_G354-new_2024: 5
+  KG_G354-new_2025:
+  KG_BS-old_2019: 10
+  KG_BS-old_2020:
+  KG_BS-old_2021:
+  KG_BS-old_2022:
+  KG_BS-old_2023:
+  KG_BS-old_2024: 30
+  KG_BS-new1_2024: 4
+  KG_BS-new1_2025:
+  KG_BS-new2_2025: 5
+base_levels_dates:
+  KG_Arabel_2019:
+  KG_Arabel_2020:
+  KG_Arabel_2021:
+  KG_Arabel_2022:
+  KG_Arabel_2023:
+  KG_Arabel_2024:
+  KG_Arabel_2025:
+  KG_G354-old_2019: 2019-08-24T07:00:00+06:00
+  KG_G354-old_2020:
+  KG_G354-old_2021:
+  KG_G354-old_2022:
+  KG_G354-old_2023:
+  KG_G354-new_2023: 2023-07-13T09:07:00+06:00
+  KG_G354-new_2024: 2024-08-20T09:53:00+06:00
+  KG_G354-new_2025:
+  KG_BS-old_2019:
+  KG_BS-old_2020:
+  KG_BS-old_2021:
+  KG_BS-old_2022: 
+  KG_BS-old_2023: 
+  KG_BS-old_2024: 2024-08-18T14:12:00+06:00
+  KG_BS-new1_2024: 2024-08-19T07:11:00+06:00
+  KG_BS-new1_2025: 2025-08-11T13:51:00+06:00
+  KG_BS-new2_2025: 2025-08-11T15:47:00+06:00
+thresholds_cm:
+  wl_adj: 1
