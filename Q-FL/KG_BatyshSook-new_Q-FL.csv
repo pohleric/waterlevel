@@ -1,0 +1,40 @@
+﻿place,injection point,measurement point,date,time,tracer,amount [ml](F) or [g](S),base solution [g/l],approx signal max [ppb](F) or [mg/l](S),discharge (calc) [m3/s],discharge (calc with extrapolation) [m3/s],discharge (manual adjusts) [m3/s],discharge (calc) [l/s],uncertainty [%],calibration?,comment
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,08:00,F,10,50,10,,0.17585,,,,09:30,"very good signal, some clouds, mainly sunny"
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,09:15,F,5,50,62,0.33,0.30639,,,,,already signal jumping due to fast increase in sediment load
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,09:44,F,5,50,,0.61085,0.59694,,,,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,11:15,F,10,50,,0.91921,,,,,"11:00; 38,72 ppb","more sediments, brown water, sunny"
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,11:35,F,20,50,,0.72029,0.71958,,,,,some cirrus clouds
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,11:55,F,20,50,4,0.71447,0.67594,,,,,only 4ppb but signal looks good. More cirrus and strtus cumulus 
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,14:00,F,50,50,29,0.90005,0.87957,,,,13:49; 35 ppb,more sediments
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2024-08-19,15:10,F,30,50,19,0.58293,0.54102,,,,,"water level falling, sediments decreasing"
+,,,,,,,,,,,,,,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,11:52,F-Sommer,,,,0.5524,0.5423,,,8.62,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,13:02,F-Sommer,,,,0.8538,0.7399,,,21.64,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,13:40,F-Sommer,,,,0.649,,,,64.05,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,15:05,F-Sommer,,,,0.632,,,,35.89,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,16:13,F-Sommer,,,,0.5654,0.5532,,,9.2,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,17:53,F-Sommer,,,,0.3887,0.3932,,,7.41,,
+BatyshSook-up,Batysh-Sook-water-high,Batysh-Sook-water-high,2025-08-12,18:57,F-Sommer,,,,0.247,,,,31.24,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
